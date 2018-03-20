@@ -51,8 +51,8 @@ body {
 }
 
 .mouth{
-    width: 1em;
-    height: 3em; /* as the half of the width */
+    width: 5%;
+    height: 30%; /* as the half of the width */
     background-color: white;
     z-index: 2;
     border-radius: 60%;
